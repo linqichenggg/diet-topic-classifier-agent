@@ -1,0 +1,11 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.env
+*.env
+secrets.local.json
+output/
+*.pdf
+*.xlsx
+*.jsonl
+*.manifest.json
